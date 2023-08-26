@@ -53,3 +53,5 @@ Contributions are encouraged! If you've developed additional queries or enhancem
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+Feel free to adapt and expand upon this readme description for your GitHub project. As for the queries themselves, you can start by defining the business questions you want to answer and then develop queries to address those questions. If you encounter specific challenges or need assistance with particular queries, don't hesitate to ask for help!
